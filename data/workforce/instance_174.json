@@ -1,0 +1,1 @@
+{"name": "instance_174", "horizon": 75, "num_teams": 4, "tasks": [{"id": 0, "duration": 45, "release": 0, "due": 75, "compatible_teams": [0, 1, 2, 3]}], "same_team_groups": [], "precedences": [], "unavailabilities": []}
